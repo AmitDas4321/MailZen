@@ -6,6 +6,12 @@
 
 *Last updated: October 2025*
 
+Thank you for using **MailZen** — a browser extension designed to make email creation easier by allowing you to insert custom HTML into Gmail, Outlook, and Yahoo Mail.
+
+Your privacy is extremely important to us. This Privacy Policy explains how **MailZen** handles user data and ensures your information stays private and secure.
+
+---
+
 ## 1. Introduction
 
 MailZen (“the Extension”) is developed and maintained by [Amit Das](https://amitdas.site).
