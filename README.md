@@ -69,6 +69,12 @@ Get the latest version of **MailZen** from the **Chrome Web Store** or **GitHub 
 ### ✨ MailZen HTML Editor
 <p align="center"><img src="screenshots/Editor.png" alt="MailZen HTML Editor" width="800"/></p>
 
+### ✨ Insert HTML
+<p align="center"><img src="screenshots/Insert HTML.png" alt="Insert HTML" width="800"/></p>
+
+### ✨ Preview
+<p align="center"><img src="screenshots/PREVIEW.png" alt="Preview" width="800"/></p>
+
 ---
 
 ## 🔒 Privacy & Security
